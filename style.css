@@ -59,7 +59,7 @@ nav a:hover {
 }
 
 header {
-  background: url('header-bg.png') center/cover no-repeat;
+  background: url('images/header-bg.png') center/cover no-repeat;
   color: #fff;
   padding: 3rem 1rem;
   text-align: center;
